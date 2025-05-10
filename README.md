@@ -26,3 +26,6 @@ This project implements an efficient American Sign Language (ASL) hand sign reco
 - Lightweight architecture suitable for real-time predictions
 - Evaluation using confusion matrix and classification report
 - Single image prediction support
+
+
+![image](https://github.com/user-attachments/assets/3619953d-eed0-409c-b2b8-0560c5e6bb98)
